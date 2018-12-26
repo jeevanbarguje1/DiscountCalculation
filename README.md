@@ -14,3 +14,4 @@ as a discount).
 
 Junit code coverage 
 
+![alt tag](http://url/to/img.png)
