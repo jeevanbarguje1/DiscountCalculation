@@ -14,4 +14,5 @@ as a discount).
 
 Junit code coverage 
 
-![alt tag](http://url/to/img.png)
+![junit-code-coverage](https://user-images.githubusercontent.com/40514573/50452596-06149280-0961-11e9-8721-fe8859816c5f.PNG)
+
